@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ConsoleApp15
 {
@@ -10,6 +6,8 @@ namespace ConsoleApp15
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello GIT !");
+            Console.Read();
         }
     }
 }
