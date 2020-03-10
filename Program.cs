@@ -10,6 +10,7 @@ namespace ConsoleApp15
             Console.BackgroundColor = ConsoleColor.Blue;
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("Hello GIT !");
+            Console.WriteLine("Юра прогульщик! ");
             Console.Read();
         }
     }
