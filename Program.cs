@@ -6,7 +6,7 @@ namespace ConsoleApp15
     {
         static void Main(string[] args)
         {
-            Console.BackgroundColor = ConsoleColor.Gray;
+            Console.BackgroundColor = ConsoleColor.Blue;
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("Hello GIT !");
             Console.Read();
